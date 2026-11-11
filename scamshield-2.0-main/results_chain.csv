@@ -1,0 +1,41 @@
+id,message,category,true_risk,predicted,confidence,correct
+1,"Dear customer, your SBI account is blocked. Update KYC now at http://sbi-kyc-verify.top or your account will be closed. Call 9000000101.",bank_kyc,High,High,0.99,True
+2,"HDFC Bank: Rs 24,999 debited from your account. If not you, share the OTP sent to your phone with our agent at 9000000102 to reverse the transaction.",bank_otp,High,High,0.99,True
+3,Your ICICI credit card will be blocked today due to pending verification. Click http://icici-secure-card.online/verify to avoid penalty.,bank_card,High,High,0.99,True
+4,Your UPI ID has been suspended. Reactivate immediately at http://upi-reactivate.xyz and enter your UPI PIN to continue using the service.,bank_upi,High,High,0.99,True
+5,"Congratulations! You have won Rs 25,00,000 in the KBC lucky draw. Share your bank details and OTP to claim your prize now.",lottery_kbc,High,High,0.99,True
+6,You are the lucky winner of an iPhone 15! Pay Rs 499 delivery charges at http://claim-gift-now.click within 2 hours to receive it.,lottery_gift,High,High,0.99,True
+7,"Earn Rs 5,000 daily from home! Just like and subscribe to YouTube videos. Message us on WhatsApp 9000000103 to start. Registration fee Rs 300.",job_task,High,High,0.99,True
+8,"Offer letter from a top MNC: Salary 8 LPA. To confirm your joining pay Rs 4,500 refundable security deposit to the account given below.",job_offer,High,Medium,0.9,False
+9,"Your parcel from abroad is held at customs. Pay Rs 1,850 clearance fee at http://parcel-clear-india.top within 24 hours or it will be returned.",courier_customs,High,High,0.99,True
+10,India Post: your package could not be delivered due to an incorrect address. Update your address and pay Rs 25 at http://indiapost-redelivery.info,courier_address,High,High,0.99,True
+11,"Dear consumer, your electricity will be disconnected tonight at 9:30 pm as your previous month bill is not updated. Call 9000000104 immediately.",electricity,High,High,0.98,True
+12,Your LPG connection will be cancelled. Complete KYC today by installing this app: http://gas-kyc-help.net/app.apk,gas_kyc,High,High,0.99,True
+13,"Income Tax Dept: You are eligible for a refund of Rs 15,490. Submit your bank details at http://incometax-refund-gov.top to receive it.",income_tax,High,High,0.99,True
+14,"Traffic e-challan of Rs 2,000 is pending against your vehicle. Pay now at http://echallan-pay-online.xyz to avoid court notice.",challan,High,High,0.99,True
+15,Your SIM card will be deactivated in 2 hours due to incomplete verification. Call 9000000105 now to keep your number active.,sim_block,High,High,0.97,True
+16,"Hi Mom, this is my new number. I am in trouble and need Rs 30,000 urgently. Please send it to this UPI ID and don't tell Dad.",family_emergency,High,High,0.99,True
+17,"Guaranteed 40% returns in 15 days! Join our exclusive stock tips group. Minimum deposit Rs 10,000. Limited seats, register at http://profit-guru-club.top",investment,High,High,0.99,True
+18,"Double your Bitcoin in 24 hours. Send any amount to our wallet and get 2x back. Trusted by 50,000 investors. Act now!",crypto,High,High,0.99,True
+19,"Instant loan Rs 50,000 approved without documents! Pay Rs 1,200 processing fee first at http://quick-cash-loan.click to receive the money.",loan_app,High,High,0.99,True
+20,"Amazon refund pending Rs 4,299. Install AnyDesk and share the 9-digit code with our executive to receive your refund.",refund_remote,High,High,0.99,True
+21,"Hello dear, I am a doctor working abroad and I want to send you a gift parcel. Please pay the customs fee to release it. I love you.",romance,High,High,0.96,True
+22,"Congratulations, you are selected for a government scholarship of Rs 40,000. Send your Aadhaar and bank details to 9000000106 to receive it.",scholarship,High,High,0.98,True
+23,Your PAN card will be deactivated today. Update now at http://pan-update-india.online and enter your net banking password to verify.,pan_update,High,High,0.99,True
+24,Your WhatsApp will expire tonight. Verify your account by sending the 6-digit code you just received to this number.,wa_hacked,High,High,0.99,True
+25,Big Diwali sale! Flat 70% off on all electronics. Limited stock. Shop now at http://mega-deals-india.shop,promo_unknown,Medium,High,0.92,False
+26,Complete this 2-minute survey and stand a chance to win a Rs 500 gift voucher: http://quick-survey-rewards.info,survey_reward,Medium,Medium,0.9,True
+27,"Hiring data entry executives, work from home, Rs 20,000 per month. Interested candidates reply YES to this number.",unknown_job,Medium,Low,0.93,False
+28,You are pre-approved for a personal loan up to Rs 3 lakh. Click to know your offer: http://loan-offer-check.co,unknown_credit,Medium,Medium,0.91,True
+29,Your order #4521 has been shipped and will arrive tomorrow by 6pm.,delivery_ok,Low,Low,0.99,True
+30,482913 is your OTP for login. Do not share it with anyone. Valid for 10 minutes.,otp_ok,Low,Low,0.99,True
+31,"A/c XX4321 debited Rs 250.00 on 26-09-26 at Metro Mart. Avl Bal Rs 12,480.50. Not you? Call the number on the back of your card.",bank_debit_ok,Low,Low,0.99,True
+32,"Hey, are we still meeting at 6 near the college gate? I will be a bit late.",friend_ok,Low,Low,0.99,True
+33,Your Jio recharge of Rs 299 is successful. Validity till 25-Oct-2026. Thank you for choosing Jio.,recharge_ok,Low,Low,0.99,True
+34,"Reminder: Your appointment with Dr. Kumar is tomorrow at 10:30 AM at City Clinic, Madurai. Reply 1 to confirm.",appointment_ok,Low,Low,0.99,True
+35,"Dear students, internal exam timetable for III semester is uploaded on the college portal. Please check and prepare accordingly.",college_ok,Low,Low,0.99,True
+36,"PNR 4521879630: Your train 12635 is on time. Coach S5, Seat 34. Have a pleasant journey. - Indian Railways",train_ok,Low,Low,0.99,True
+37,Your Swiggy order is out for delivery. Arriving in 12 minutes. Delivery partner: Ramesh.,food_ok,Low,Low,0.99,True
+38,"Reminder: Your EMI of Rs 4,200 is due on 05-Oct. Please maintain sufficient balance in your account.",emi_ok,Low,Low,0.98,True
+39,Your Zomato delivery OTP is 7351. Share it only with the delivery partner at your door.,otp_food_ok,Low,Low,0.99,True
+40,"Amma, I reached the hostel safely. Will call you after dinner.",family_ok,Low,Low,0.99,True

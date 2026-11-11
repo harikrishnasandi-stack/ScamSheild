@@ -1,0 +1,6 @@
+approach,accuracy_pct,correct,total,false_alarms,missed_scams,errors
+zero_shot,92.5,37,40,0,0,0
+few_shot,100.0,40,40,0,0,0
+chain_of_thought,95.0,38,40,0,0,0
+single_detailed,90.0,36,40,0,0,0
+chain,92.5,37,40,0,0,0
